@@ -1,0 +1,80 @@
+baseURL = "https://example.com/"
+languageCode = "it"
+title = "Geologo Antonio Nirta"
+theme = "hugo-initio"
+
+[params]
+    name = "Antonio Nirta"
+    description = "Geologo & Divulgatore Scientifico"
+    email = "ant.nirt@gmail.com"
+    phone = "(+39)3480416241"
+    address = "Via B.Croce 17, 89030 San Luca (RC)"
+    year = 2023
+    avatar = "images/logo-geologo-nirta.webp"
+    avatarclass = "circle"
+    background = "auto"
+    favicon = "images/logo-geologo-nirta.webp"
+    dateFormat = "02 Jan 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+    
+    ShowDatesOnPosts = true
+
+    showSubheader = false
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Chi sono"
+    url = "/chi-sono/"
+    weight = 5
+[[menu.main]]
+    name = "Progetti"
+    url = "/progetti/"
+    weight = 5
+    
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/geologonirta"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+
+[[params.social]]
+    title = "instagram"
+    url = "https://www.instagram.com/geologo.nirta"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/antonio-nirta/"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+
+[[params.social]]
+    title = "email"
+    url = "mailto:some.email@somewhere.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"

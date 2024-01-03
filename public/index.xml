@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geologo Antonio Nirta</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Geologo Antonio Nirta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>https://example.com/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>Chi sono</title>
+      <link>https://example.com/chi-sono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/chi-sono/</guid>
+      <description>Vita Mi chiamo Antonio Nirta, sono un geologo e divulgatore scientifico.&#xA;La prima parte della mia vita si è svolta a Rho (MI), dove ho vissuto i miei primi 5 anni.&#xA;Quando mio padre ha cambiato lavoro mi sono trasferito - con la mia famiglia - nel mio paese di origine Calabria con la mia famiglia, dove sono rimasto fino ai 19 anni. Dopo la maturità scientifica, conseguita al Liceo &amp;ldquo;Francesco La Cava&amp;rdquo; di Bovalino&amp;quot;, mi sono trasferito a Pisa.</description>
+    </item>
+    <item>
+      <title>Progetti</title>
+      <link>https://example.com/progetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/progetti/</guid>
+      <description>IntraGeo IntraGeo è il mio progetto di divulgazione scientifica in ambito geologico. Questo canale ha sia un sito web che delle pagine sui principali social-network:&#xA;Facebook Instagram Youtube </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/subheader/</guid>
+      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
+    </item>
+    <item>
+      <title>Download HUGO template</title>
+      <link>https://example.com/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>Geofisica</title>
+      <link>https://example.com/home/servizi/geofisica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/geofisica/</guid>
+      <description>&lt;p&gt;Grazie alal geofisica posso offrire una panoramica approfondita delle caratteristiche sismiche del tuo terreno.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geologia</title>
+      <link>https://example.com/home/servizi/geologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/geologia/</guid>
+      <description>&lt;p&gt;Affidandoti ai miei servizi professionali di geologia ti garantisci professionalità, competenza e risultati di alta qualità.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geotecnica</title>
+      <link>https://example.com/home/servizi/geotecnica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/geotecnica/</guid>
+      <description>&lt;p&gt;Opero nel settore della geotecnica, dove posso fornirti servizi puntuali ed affidabili.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geoturismo</title>
+      <link>https://example.com/home/servizi/geoturismo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/geoturismo/</guid>
+      <description>&lt;p&gt;Con la mia attività di geoturismo ti faccio conoscere dei luoghi interessanti dal punto di vista geologico.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GIS</title>
+      <link>https://example.com/home/servizi/gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/gis/</guid>
+      <description>&lt;p&gt;Applico le tecniche GIS alla geologia e alla geotecnica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Idrogeologia</title>
+      <link>https://example.com/home/servizi/idrogeologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/servizi/idrogeologia/</guid>
+      <description>&lt;p&gt;Fornisco una vasta gamma di servizi professionali per la ricerca e la gestione delle risorse idriche.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
