@@ -10,10 +10,10 @@ theme = "hugo-initio"
     phone = "(+39)3480416241"
     address = "Via B.Croce 17, 89030 San Luca (RC)"
     year = 2023
-    avatar = "images/logo-geologo-nirta.webp"
+    avatar = "/images/logo-geologo-nirta.webp"
     avatarclass = "circle"
     background = "auto"
-    favicon = "images/logo-geologo-nirta.webp"
+    favicon = "/images/logo-geologo-nirta.webp"
     dateFormat = "02 Jan 2006"
     author = "Sergey Pozhilov (GetTemplate.com)"
     
